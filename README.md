@@ -49,3 +49,7 @@ terraform apply -auto-approve
 ## 📄 License
 
 MIT License
+
+## Built by VisionQuantech
+
+Part of the [VisionQuantech](https://visionquantech.com/) AI automation studio. See [AI automation services](https://visionquantech.com/ai-automation-services) and the guide to [AI chatbot for Shopify stores](https://visionquantech.com/blog/ai-chatbot-for-shopify-stores).
